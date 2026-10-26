@@ -1,0 +1,14 @@
+{
+  "name": "Distributeder Marketplace",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Distributeder Live Website",
+      "onAutoForward": "openBrowser",
+      "visibility": "public"
+    }
+  },
+  "postCreateCommand": "npm install && npx prisma migrate dev && npm run seed",
+  "postStartCommand": "npm run dev"
+}

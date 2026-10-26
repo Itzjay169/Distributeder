@@ -1,10 +1,28 @@
 # Distributeder — Two-Sided B2B & Wholesale Marketplace
 
-**Distributeder** is a modern, professional, two-sided Buy & Sell marketplace connecting manufacturers, commercial distributors, wholesale suppliers, and bulk procurement buyers. A single registered account can seamlessly act as both buyer and seller with an instant context switcher directly from the navigation bar.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Itzjay169/Distributeder)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FItzjay169%2FDistributeder)
+
+**Distributeder** is a modern, high-performance, two-sided B2B & wholesale marketplace connecting commercial manufacturers, verified distributors, and volume procurement buyers with role-specific secure portals, real-time RFQ tender bidding, multi-tier wholesale discounts, and automated invoice settlements.
 
 ---
 
-## 🚀 Quick Start (Runs Locally in Seconds)
+## ⚡ Run Live Directly in Your Browser (No Setup Required)
+
+### Option 1: Run Live inside GitHub (Free 1-Click Cloud Machine)
+Anyone with a GitHub account can run and view the entire working website directly inside their browser:
+1. Click the **[Open in GitHub Codespaces](https://codespaces.new/Itzjay169/Distributeder)** badge above (or click **Code → Codespaces → Create codespace on main** on the GitHub repository).
+2. GitHub will automatically boot the environment, install packages, seed the database, and launch the web server.
+3. The live website will automatically pop up in a new browser tab with full functionality!
+
+### Option 2: Deploy to Vercel in 1 Click (Public Permanent URL)
+To get a public `.vercel.app` URL that anyone in the world can visit 24/7 without signing into GitHub:
+1. Click the **[Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FItzjay169%2FDistributeder)** badge.
+2. Sign in with GitHub and click **Deploy**. Your site will be live in 60 seconds.
+
+---
+
+## 🚀 Quick Start (Run Locally on Your Machine)
 
 Follow these exact steps to run the complete demo application:
 
